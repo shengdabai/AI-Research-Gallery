@@ -5,7 +5,7 @@ Each page was generated from my own reading, notes and data analysis with Claude
 
 用 AI 每天做出来的研究页、讲解页和可视化，这里只放对一般读者也有用、不含个人信息的那部分。
 
-**Browse online:** https://shengdabai.github.io/ai-research-gallery/ (GitHub Pages)
+**Browse online:** https://shengdabai.github.io/AI-Research-Gallery/ (GitHub Pages)
 
 **166 pages** across 9 categories. Rating ★ = how reusable the page is for someone who is not me (3–5).
 
